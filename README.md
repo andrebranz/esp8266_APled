@@ -15,9 +15,13 @@ Set UP Arduino Software:
 
 ______________
 Flash Code On Our device:
+
 1- in the same page where we have done the set-up of arduino Software, paste the code
+
 2- press Ctrl + Shift + s to save as a name, everywhere you want 
+
 3- on Tools > Board > "port" choose the correct COM usb-Port
+
 4- Press Ctrl + u to compile and flash the code on our ESP8266 module 
 
 At the end of loading, we have to connect to our AP
