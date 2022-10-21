@@ -8,9 +8,12 @@ To do this project we need:
 
 ______
 Set UP Arduino Software:
+
 1- go to File > Settings and in the cell "Additional URLs for the tab manager" put this link : http://arduino.esp8266.com/stable/package_esp8266com_index.json
    press "Ok"
+   
 2- go to Tools > Board > Board Manager, search "wemos" and install the latest version
+
 3- on Tools > Board > "upload speed" choose 115200
 
 ______________
